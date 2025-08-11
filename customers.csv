@@ -1,0 +1,13 @@
+﻿CustomerID,Name,Age,Gender,City
+C001,Anna Kowalska,32,F,Warsaw
+C002,Piotr Nowak,45,M,Krakow
+C003,Maria Wiśniewska,28,F,Gdansk
+C004,Tomasz Lewandowski,39,M,Wroclaw
+C005,Julia Zielińska,50,F,Poznan
+C006,Adam Kaczmarek,29,M,Warsaw
+C007,Ewa Jankowska,36,F,Lublin
+C008,Michał Piotrowski,41,M,Lodz
+C009,Katarzyna Pawlak,27,F,Szczecin
+C010,Robert Mazur,52,M,Katowice
+C011,Agnieszka Duda,33,F,Bialystok
+C012,Łukasz Zawadzki,38,M,Torun
